@@ -9,7 +9,7 @@
 		<version>2.6.3</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.viruchith</groupId>
+	<groupId>com.sanjay</groupId>
 	<artifactId>spring-expense-tracker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-expense-tracker</name>
@@ -67,7 +67,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-                <mainClass>com.viruchith.springexpensetracker.SpringExpenseTrackerApplication</mainClass>
+                <mainClass>com.sanjay.springexpensetracker.SpringExpenseTrackerApplication</mainClass>
                 <addResources>true</addResources>
 				</configuration>
 			</plugin>
